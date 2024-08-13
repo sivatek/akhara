@@ -1,0 +1,17 @@
+Breaker #,Amperage,Room,Description
+1,15,garage,Downstairs: Water Heater (only) = 24vdc
+2,20,kitchen,Upstairs: Freezer Outlet
+3,20,papa's room,"lights, outlets, wall heater, and dining room lights"
+4,20,kitchen,"Refrigerator, stove, garbage disposal and outlet by kitchen window."
+5,20,primary bedroom (PBR),"aka, green room := west wall outlet by window and south wall outlet by the closet"
+6,20,mama's room,outlets/lights/electric wall heater and upstairs bathroom outlet and lights
+7,20,"MBR light, bathroom light and laundry light","120v to the outlet by the sink, both laundry 120v outlets, the motion switch activates the light over the washer and drier"
+8,20,kitchen,"Outlets on northerly-wall of kitchen above the counter (coee machine, blender, toaster, etc.)"
+9,20,family room,"Northerly-wall outlets (MODEM, tv, etc.) and upstairs green-room outlet behind bed (North wall)"
+10,20,family room,"Eight duplex downstairs and one duplex, one switch, and one ceiling led upstairs   (L2-W-BR / Green room)."
+11,20,family room,lower landing switch controls the lower landing light and the ceiling lights above bookcasel
+12,20,"garage, vestibule, and duplex right of dining room window","garage ceiling light before entrance to lower landing, vestibule, dining room outlet right of window, and 5 receptacles in MBR"
+13,20,Dining room,Dining Room outlets in NE corner and left of dining room window
+14,20,Garage,Light above north exit to trailer in garage (only).
+15,15,Garage,Furnace (only)
+16,30,Laundry Room,Electric Dryer 240V / 22.3A

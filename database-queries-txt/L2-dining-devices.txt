@@ -1,0 +1,22 @@
+ device_id |                                  device_name                                   | room_name |   x_from_west   |   y_from_north    |   z_from_floor    | cbreaker_id 
+-----------+--------------------------------------------------------------------------------+-----------+-----------------+-------------------+-------------------+-------------
+        29 | ceiling led #29 over refrigerator and north-east a little                      | L2 dining | 12-ft 3.25-in   | 6-ft 8-in         | 7-ft 9.03125-in   | 4
+        30 | ceiling led #30 is above freezer #8                                            | L2 dining | 12-ft 1.875-in  | 2-ft 8.25-in      | 7-ft 9.65625-in   | 4
+        31 | ceiling led #31 is north of ceiling led #32                                    | L2 dining | 20-ft 1.3333-in | 2-ft 8-in         | 7-ft 10.40625-in  | 3
+        32 | ceiling led #32 hangs over dining room table                                   | L2 dining | 20-ft 5-in      | 7-ft              | 7-ft 9.40625-in   | 3
+        33 | ceiling led #33 is south dining room table in middle of dining room            | L2 dining | 9-ft            | 14-ft 7.625-in    | 7-ft 9.59375-in   | 3
+        34 | ceiling led #34 is midway along west dining room wall                          | L2 dining | 1-ft 5.625-in   | 15-ft 1.625-in    | 7-ft 10.09375-in  | 3
+        35 | ceiling led #35 is west of honeywell thermostat                                | L2 dining | 1-ft 6.5-in     | 26-ft 1375-in     | 7-ft 11.09375-in  | 3
+        36 | duplex #36 on north wall west of duplex #37                                    | L2 dining | 20-ft 5-in      | on north wall     | 1-ft 3.25-in      | 13
+        37 | duplex #37 on north wall west of furnace register #38                          | L2 dining | 20-ft 11-in     | on north wall     | 1-ft 3.25-in      | 13
+        38 | furnace register #38 on north wall near north-east corner                      | L2 dining | 1-ft 5.375-in   | on north wall     | 1-ft 9.125-in     | --
+        39 | two duplex #39 on east wall left of dining room window                         | L2 dining | on east wall    | 1-ft 7.75-in      | 1-ft 3.75-in      | 13
+        40 | duplex #40 right of dining room window connects porch led #89                  | L2 dining | on east wall    | 14-ft 9.96875-in  | 1-ft 3.84375-in   | 12
+        41 | j-box #41 is right of duplex #40                                               | L2 dining | on east wall    | 16-ft 1.125-in    | 0-ft 11.65625-in  | 12
+        42 | j-box #42 on east side of wall hiding refrigerator                             | L2 dining | on east wall    | 9-ft 2.25-in      | 6-ft 5.625-in     | 3
+        43 | j-box #43 on east side of wall hiding refrigerator                             | L2 dining | on east wall    | 9-ft 5.25-in      | 5-ft 7.625-in     | 3
+        44 | j-box #44 on east side of wall hiding refrigerator                             | L2 dining | on east wall    | 8-ft 10.375-in    | 5-ft 9-in         | 4
+        45 | toggle switch #45 for dining lights on east side of wall hiding refrigerator   | L2 dining | on east wall    | 9-ft 2.125-in     | 3-ft 9.875-in     | 3
+        46 | toggle switch #46 for kitchen lights on east side of wall hiding refrigerator  | L2 dining | on east wall    | 8-ft 10-in        | 3-ft 11-in        | 3
+(18 rows)
+

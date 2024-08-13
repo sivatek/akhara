@@ -1,0 +1,26 @@
+room name,circuit breaker id,circuit breaker size (Amps),room area (sq ft),brightness minimum (45 lumen/sqft),toggle switch / auto motion sense,brightness actual,positive mean we satisfy code
+kitchen  W,4,20,103,4635,"1,600 lm x 3",4800,165
+dining room,2,20,284,12780,"1,600 lm x 7",11200,(1580)
+upper landing,12,20,,,,60,
+mama's room,6,20,122,5507,,,
+upstairs,6,20,34,1530,toggle switch +,1300 + 900 = ,670
+bathroom,,,,,auto motion sense,2200,
+papa's room,3,20,102,4582,,,
+green room,5,20,129,5802,,0,
+green room,9,20,,,,,
+green room,10,20,,,,,
+vestibule,12,20,91,4099,,,
+lower landing,11,20,,,,,
+under stairs closet,NC,20,52,2350,,NC,
+family_Rm W,9,20,341,15334,,7500,(7834)
+family_Rm N,10,20,,,,,
+family_Rm S,11,20,,,,,
+master bedroom,7,20,121,5463,,,
+master bedroom,12,20,,,,,
+laundry room,7,20,38,1728,,,
+downstairs,7,20,56,2509,toggle switch +,,
+bathroom,,,,,auto motion sense,,
+garage,1,20,407,18324,,,
+garage,12,20,,,,,
+garage,14,20,,,,,
+garage,15,20,,,,,

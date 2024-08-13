@@ -1,0 +1,32 @@
+ device_id |                                device_name                                | room_name  |   x_from_west    |   y_from_north    |  z_from_floor   | cbreaker_id 
+-----------+---------------------------------------------------------------------------+------------+------------------+-------------------+-----------------+-------------
+         1 | basic switch #1 for garbage disposal                                      | L2 kitchen | on west wall     | 3-ft 8-in         | 3-ft 7.0625-in  | 4
+         2 | gfci duplex #2                                                            | L2 kitchen | on west wall     | 3-ft 0.375-in     | 3-ft 7.5-in     | 4
+         3 | electric water pot #3 (700 watts) always on                               | L2 kitchen | 3-in to 8-in     | on north wall     | on counter      | 4
+         4 | two gfci duplex #4 on north wall one box                                  | L2 kitchen | 3-ft 5-in        | on north wall     | 4-ft 0.875-in   | 8
+         5 | gas shutoff #5 (not used)                                                 | L2 kitchen | 6-ft 5.0625-in   | on north wall     | 3-ft 0.375-in   | 0
+         6 | two gfci duplex #6 north wall one box                                     | L2 kitchen | 7-ft 5.875-in    | on north wall     | 4-ft 1.375-in   | 8
+         7 | duplex #7 for freezer                                                     | L2 kitchen | 12-ft 10.375-in  | on north wall     | 2-ft 9.25-in    | 2
+         8 | freezer #8 (180 watts) always on                                          | L2 kitchen | 11-ft 3.0625-in  | 0-ft 6.96875-in   | on floor        | 2
+         9 | gfci duplex #9 on south wall of cabinet holding sink for dishwasher       | L2 kitchen | 0-ft 11.125-in   | on south wall     | 0-ft 13-in      | 4
+        10 | gfci duplex #10 on west wall of cabinet holding sink for insinkerator     | L2 kitchen | on west wall     | 0-ft 2-in (est.)  | 0-ft 12-in      | 4
+        11 | j-box #11 on west wall of cabinet holding sink                            | L2 kitchen | on west wall     | 0-ft 4-in (est.)  | 0-ft 11-in      | 4
+        12 | j-box #12 on west wall of cabinet holding sink                            | L2 kitchen | on west wall     | 0-ft 8-in (est.)  | 0-ft 11-in      | 4
+        13 | j-box #13 on west wall of cabinet holding sink                            | L2 kitchen | on west wall     | 0-ft 12-in (est.) | 0-ft 11-in      | 4
+        14 | j-box #14 on north wall of cabinet holding sink                           | L2 kitchen | 0-ft 11.625-in   | on north wall     | 0-ft 15-in      | 4
+        15 | j-box #15 behind new never used dishwasher                                | L2 kitchen | on west wall     | 0-ft 4.5-in       | 0-ft 7-in       | 4
+        16 | j-box #16 behind new never used dishwasher                                | L2 kitchen | on west wall     | 0-ft 8-in         | 0-ft 11-in      | 4
+        17 | j-box #17 on west side of wall hiding refrigerator from dining view       | L2 kitchen | 9-ft 9-in        | 0-ft 7.625-in     | 4-ft 4.625-in   | 4
+        18 | gfci duplex #18 on west side of wall hiding refrigerator from dining view | L2 kitchen | 9-ft 9-in        | 0-ft 5-in         | 2-ft 5.75-in    | 4
+        19 | refrigerator #19 (289 watts) always on                                    | L2 kitchen | 9-ft 8.75-in     | 0-ft 5-in         | on floor        | 4
+        20 | gas shutoff #20 behind and left of stove                                  | L2 kitchen | 6-ft 3.125-in    | on south wall     | 2-ft 7.3125-in  | 4
+        21 | j-box #21 behind stove                                                    | L2 kitchen | 5-ft 9.3125-in   | on south wall     | 1-ft 3.4375-in  | 4
+        22 | j-box  #22 behind stove                                                   | L2 kitchen | 5-ft 9.3125-in   | on south wall     | 6.375-in        | 4
+        23 | gfci duplex #23 left of SEH                                               | L2 kitchen | 5-ft 9 3/8-in    | on south wall     | 4-ft 8.5-in     | 4
+        24 | stove exhaust hood (SEH) #24                                              | L2 kitchen | 4-ft 7-in        | on south wall     | 7-ft 2.5-in     | 4
+        25 | gfci duplex #25 right of SEH                                              | L2 kitchen | 3-ft 3.375-in    | on south wall     | 4-ft 8.5-in     | 4
+        26 | ceiling led #26 over sink                                                 | L2 kitchen | 1-ft 1.125-in    | 6-ft 6.125-in     | 7-ft 10.4375-in | 4
+        27 | ceiling led #27 over stove towards center of kitchen                      | L2 kitchen | 4-ft 7.875-in    | 6-ft 7.625-in     | 7-ft 9.53125-in | 4
+        28 | ceiling led #28 over north-side counter holding microwave                 | L2 kitchen | 4-ft 9-in        | 2-ft 9-in         | 7-ft 9.84375-in | 4
+(28 rows)
+

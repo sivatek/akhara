@@ -1,0 +1,9 @@
+ device_id |                              device_name                              |      room_name      |  x_from_west   |   y_from_north   |  z_from_floor   | cbreaker_id 
+-----------+-----------------------------------------------------------------------+---------------------+----------------+------------------+-----------------+-------------
+        84 | j-box #84 is above front door near ceiling                            | L1.5 front entrance | on east wall   | 19-ft 2.21875-in | 12-ft 3-in      | 12
+        85 | j-box #85 - former porch light switch - no longer used                | L1.5 front entrance | on east wall   | 19-ft 0.21875-in | 5-ft 10 1/8-in  | nc
+        86 | motion switch #86 gets power from j-box #41 and connects to j-box #87 | L1.5 front entrance | on east wall   | 19-ft 1.21875-in | 5-ft 4 5/8-in   | 12
+        87 | j-box #87 connects motion switch #86 to j-box #84                     | L1.5 front entrance | on east wall   | 19-ft 3.21875-in | 5-ft 10 1/4-in  | 12
+        88 | pendant light #88 is controlled by motion switch #86                  | L1.5 front entrance | 10-ft 7.875-in | 21-ft 9.1875-in  | 7-ft 1.875-in   | 12
+(5 rows)
+

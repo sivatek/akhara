@@ -1,0 +1,8 @@
+ device_id |                            device_name                             |  room_name  |   x_from_west   |  y_from_north   |  z_from_floor   | cbreaker_id 
+-----------+--------------------------------------------------------------------+-------------+-----------------+-----------------+-----------------+-------------
+        93 | ceiling j-box #93 connects j-box #162 (gfci protected) & j-box #94 | L1 spandrel | 8-ft 2.21875-in | 2-ft 3.9375-in  | 3-ft 3.875-in   | 12
+        94 | j-box #94 (gfci protected) connects to mbr duplex #156             | L1 spandrel | 8-ft 2.46875-in | 4-ft 5.15625-in | 2-ft 0.4375-in  | 12
+        95 | ceiling led #95 (gfci protected) connects to j-box #93             | L1 spandrel | 5-ft 10.6875-in | 1-ft 10.625-in  | 3-ft 3.40625-in | 12
+        96 | basic switch #96 (gfci protected) connects to spandrel led #95     | L1 spandrel | 4-ft 2.53125-in | 2-ft 6.875-in   | 3-ft 3.40625-in | 12
+(4 rows)
+

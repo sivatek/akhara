@@ -1,0 +1,17 @@
+ device_id |                       device_name                        |   room_name   |   x_from_west   |  y_from_north   |   z_from_floor   | cbreaker_id 
+-----------+----------------------------------------------------------+---------------+-----------------+-----------------+------------------+-------------
+       149 | light switch #149 powers ceiling led #155 via j-box #150 | L1 SE bedroom | 2-ft 0.25-in    | 6-ft 1.6875-in  | 3-ft 8.9375-in   | 7
+       150 | ceiling j-box #150                                       | L1 SE bedroom | 2-ft 0.875-in   | 5-ft 0.28125-in | 7-ft 11.6875-in  | 7
+       151 | ceiling j-box #151                                       | L1 SE bedroom | 0-ft 3.5-in     | 5-ft 4.5625-in  | 7-ft 11.25-in    | 7
+       152 | ceiling j-box #152                                       | L1 SE bedroom | 0-ft 3.5-in     | 1-ft 5.53125-in | 8-ft 0.4375-in   | 7
+       153 | ceiling j-box #153                                       | L1 SE bedroom | 3-ft 0-in       | 1-ft 0.09375-in | 8-ft 0-in        | 6
+       154 | ceiling j-box #154                                       | L1 SE bedroom | 5-ft 2.21875-in | 1-ft 0.09375-in | 7-ft 11.90625-in | 6
+       155 | ceiling led #155                                         | L1 SE bedroom | 6-ft 3.21875-in | 5-ft 7.03125-in | 7-ft 9.9375-in   | 7
+       156 | duplex #156 is gfci protected via porch gfci duplex #90  | L1 SE bedroom | 4-ft 9.8125-in  | on north wall   | 1-ft 6.75-in     | 12
+       157 | duplex #157 is gfci protected via porch gfci duplex #90  | L1 SE bedroom | on east wall    | 2-ft 5.9375-in  | 1-ft 6-in        | 12
+       158 | duplex #158 is gfci protected via porch gfci duplex #90  | L1 SE bedroom | on east wall    | 8-ft 3.125-in   | 1-ft 7.375-in    | 12
+       159 | duplex #159 is gfci protected via porch gfci duplex #90  | L1 SE bedroom | 3-ft 9.875-in   | on south wall   | 1-ft 5.25-in     | 12
+       160 | duplex #160 is gfci protected via porch gfci duplex #90  | L1 SE bedroom | 5-ft 1.75-in    | on south wall   | 1-ft 5.125-in    | 12
+       161 | j-box #161 in mbr closet connects j-box #147 (laundry)   | L1 SE bedroom | on west wall    | 1-ft 2.875-in   | 5-ft 0.0625-in   | 7
+(13 rows)
+

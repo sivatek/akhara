@@ -1,0 +1,6 @@
+ device_id |                                device_name                                |    room_name     |   x_from_west   |    y_from_north     |  z_from_floor   | cbreaker_id 
+-----------+---------------------------------------------------------------------------+------------------+-----------------+---------------------+-----------------+-------------
+        89 | porch led #89 connects to duplex #40 (dining room)                        | L1.5 front porch | 0-ft 8.59375-in | on north porch wall | 7-ft 7.34375-in | 12
+        90 | porch gfci duplex #90 gets power from j-box #191 & connects to j-box #162 | L1.5 front porch | 1-ft 1.71875-in | on north porch wall | 2-ft 1.53125-in | 12
+(2 rows)
+

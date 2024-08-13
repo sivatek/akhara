@@ -1,0 +1,10 @@
+ device_id |                               device_name                                |  room_name  |   x_from_west    |  y_from_north   |   z_from_floor   | cbreaker_id 
+-----------+--------------------------------------------------------------------------+-------------+------------------+-----------------+------------------+-------------
+        58 | motion switch #58 shares box with gfci duplex #59                        | L2 bathroom | 3-ft 4-in        | on north wall   | 3-ft 11.375-in   | 6
+        59 | gfci duplex #59 shares box with motion switch #58                        | L2 bathroom | 3-ft 6-in        | on north wall   | 3-ft 11.375-in   | 6
+        60 | humidity sensor #60 on ceiling - shower and/or shaving at sink activates | L2 bathroom | 4-ft 8-in        | 1-ft 8.375-in   | 7-ft 11.25-in    | 6
+        61 | exhaust fan #61 on bathroom ceiling                                      | L2 bathroom | 4-ft 2.6875-in   | 2-ft 4.71875-in | 7-ft 10.78125-in | 6
+        62 | ceiling led #62 west-most fixture                                        | L2 bathroom | 1-ft 10.40625-in | 1-ft 9-in       | 7-ft 10.5625-in  | 6
+        63 | ceiling led #63 east-most fixture                                        | L2 bathroom | 2-ft 7.15625-in  | 2-ft 4.8125-in  | 7-ft 10.75-in    | 6
+(6 rows)
+

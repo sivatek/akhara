@@ -1,0 +1,13 @@
+ device_id |                                 device_name                                  |  room_name  |   x_from_west   |   y_from_north   |   z_from_floor    | cbreaker_id 
+-----------+------------------------------------------------------------------------------+-------------+-----------------+------------------+-------------------+-------------
+       134 | gfci duplex #134                                                             | L1 bathroom | 0-ft 8.8125-in  | on north wall    | 4-ft 1.40625-in   | 7
+       135 | toggle switch #135                                                           | L1 bathroom | on east wall    | 3-ft 2.5625-in   | 3-ft 10.21875-in  | 7
+       136 | j-box #136 - above towel rack                                                | L1 bathroom | on east wall    | 3-ft 9.90625-in  | 5-ft 3.65625-in   | 7
+       137 | ceiling led #137 with exhaust fan                                            | L1 bathroom | 6-ft 2.125-in   | 4-ft 5.6875-in   | 7-ft 10.15625-in  | 7
+       138 | humidity sensor #138 is on ceiling - shower and/or shaving at sink activates | L1 bathroom | 4-ft 4.4375-in  | 3-ft 11.53125-in | 7-ft 11.46875-in  | 7
+       139 | ceiling led #139 is over sink is wet/damp rated                              | L1 bathroom | 1 ft 9.1875-in  | 1-ft 8.1875-in   | 7-ft 11.21875-in  | 7
+       140 | ceiling j-box #140 - west-most                                               | L1 bathroom | 3-ft 10.875-in  | 2-ft 1.21875-in  | 8-ft 0.28125-in   | 7
+       141 | ceiling j-box #141 between j-box #140 & j-box #142                           | L1 bathroom | 5-ft  0.1875-in | 1-ft 5.4375-in   | 7-ft 11.71875-in  | 7
+       142 | ceiling j-box #142 - east-most                                               | L1 bathroom | 6-ft 3.90625-in | 2-ft 0.71875-in  | 7-ft 11.9375-in   | 7
+(9 rows)
+

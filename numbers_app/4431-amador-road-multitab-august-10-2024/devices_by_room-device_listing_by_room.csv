@@ -1,0 +1,20 @@
+Room id,Room name,Length east-to-west (x),Width north-to-south (y),Ceiling Height (z),Area (sqft),CircuitBreaker Qty,CircuitBreaker id_from table 1,Outlet Qty,Handy Box Qty,Ceiling Light Qty,Notes
+1,kitchen,11ft 4 1/16-in,10-ft 6-in,7-ft 11 1/2-in,102.92 sqft,2,"4, 8",11,4,2,"garbage disposal switch, devid-15 shows stove exhaust hood with tape, mastic, and stainless steel cover. attic-folder shows hood exhaust through roof."
+2,dining room,14-ft 10 1/8-in,18-ft 5 11/16-in,7-ft 11 1/2-in,274.23 sqft,4,"2, 4, 12, 13",7,3,1,stair bannister to north wall = 18-ft 5 11/16-in
+3,upper landing,60-ft,,,,,,,,,
+4,mamas bedroom,11-ft 1-in,11-ft 1/2-in,7-ft 11 1/2-in,122.38 sqft,1,6,2,2,1,"Has electric wall heater, photo #58"
+5,upper bathroom,4-ft 11-in,6-ft 11-in,7-ft 11 1/2-in,34.01 sqft,1,6,1,0,1,motion sensing light switch
+6,papas bedroom,8-ft 11 9/16-in,10-ft 3 1/16-in,7-ft 11 1/2-in,101.83 sqft,4,3,3,2,1,"92 sqft room plus 9.83 sqft closet = 101.83 sqft. Has electric wall heater, photo #56"
+7,green bedroom,10-ft 9 1/2-in,11-ft 11 3/8-in,7-ft 11 1/2-in,128.94 sqft,3,"5, 9, 10",4,3,0,
+8,vestibule,6-ft 1 11/16-in,14-ft 10-in,12-ft 11 7/16-in,91.09 sqft,1,12,2,4,3,front-door floor ceiling is 12-ft 11 7/16-in. At top of stairs the ceiling is 7-ft 11 1/2-inchesouth  Honeywell thermostat = #31
+9,lower landing,4-ft,5-ft,tbd,20-ft,,,,,,
+10,spandrel,8-ft 6 1/16-in,6-ft 1 11/16-in,tbd,52.23 sqft,,,,,,
+11,family room,12-ft 6-in,27-ft 3 1/8-in,7-ft 10 11/16-in,340.76 sqft,3,"9, 10, 11",11,16,6,
+12,master bedroom,11-ft 1-in,10-ft 11 7/16-in,7-ft 11 9/16-in,121.40 sqft,2,,,,,
+13,laundry,4-ft 9 3/4-in,7-ft 11 3/4-in,7-ft 4 3/16-in,38.40 sqft,2,,,,,
+14,lower bathroom,7-ft 3/4-in,7-ft 10 7/8-in,7-ft 11 9/16-in,55.76 sqft,1,,,,,
+15,garage,,,,,,,,,,
+16,attic,,,,,,,,,,
+17,outdoors,,,,,,,,,,
+18,upstairs,26-ft,35-ft 11 7/16-in,7-ft 11 1/2-in,934.78 sqft,7,table 1,,,,Kitchen E wall to dining room E wall length multiplied by dining room N wall to bathroom S wall length.
+19,downstairs,24-ft 1-in,35-ft 7 5/8,7-ft 11 1/2-in, 852.22 sqft,9,table 1,,,,master bedroom east wall to downstairs bathroom west wall times length of family room north wall to laundry room south wall

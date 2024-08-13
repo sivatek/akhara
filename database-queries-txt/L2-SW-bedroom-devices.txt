@@ -1,0 +1,14 @@
+ device_id |                device_name                 |   room_name   |   x_from_west   |   y_from_north   |   z_from_floor   | cbreaker_id 
+-----------+--------------------------------------------+---------------+-----------------+------------------+------------------+-------------
+        64 | basic switch #64 near door                 | L2 SW bedroom | on east wall    | 3-ft 2.78125-in  | 4-ft 0.375-in    | 3
+        65 | j-box #65 is above and north of j-box #66  | L2 SW bedroom | on east wall    | 6-ft 6.875-in    | 3-ft 3.09375-in  | 3
+        66 | j-box #66 is above duplex #67              | L2 SW bedroom | on east wall    | 7-ft 6.40625-in  | 2-ft 10.46875-in | 3
+        67 | duplex #67                                 | L2 SW bedroom | on east wall    | 7-ft 6.6875-in   | 1-ft 4.90625-in  | 3
+        68 | j-box #68 - higher                         | L2 SW bedroom | 5-ft 2.84375-in | on south wall    | 5-ft 11.84375-in | 3
+        69 | j-box #69 - lower                          | L2 SW bedroom | 5-ft 2.8125-in  | on south wall    | 4-ft 11.46875-in | 3
+        70 | duplex #70                                 | L2 SW bedroom | 5-ft 2.96875-in | on south wall    | 1-ft 5.625-in    | 3
+        71 | duplex #71 is below window                 | L2 SW bedroom | on west wall    | 7-ft 2.71875-in  | 1-ft 5.9375-in   | 3
+        72 | wall heater #72 consumes 960 watts maximum | L2 SW bedroom | 2-ft 0.375-in   | on north wall    | 0-ft 10.625-in   | 3
+        73 | ceiling led #73                            | L2 SW bedroom | 4-ft 7.84375-in | 4-ft 9.28125-in  | 7-ft 7.125-in    | 3
+(10 rows)
+
