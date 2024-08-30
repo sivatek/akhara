@@ -1,6 +1,0 @@
- device_id |                                device_name                                 | room_name  |   x_from_west   | y_from_north  |  z_from_floor   | cbreaker_id 
------------+----------------------------------------------------------------------------+------------+-----------------+---------------+-----------------+-------------
-        91 | toggle switch #91 controls ceiling led #s: #92 & #124 & #127 & #132 & #133 | L1 landing | 13-ft 1.125-in  | on south wall | 3-ft 10.25-in   | 11
-        92 | ceiling led #92                                                            | L1 landing | 2-ft 3.875-in   | 2-ft 0.75-in  | 6-ft 10.125-in  | 11
-(2 rows)
-

@@ -1,8 +1,0 @@
- device_id |                          device_name                          | room_name  |  x_from_west  |  y_from_north   |  z_from_floor  | cbreaker_id 
------------+---------------------------------------------------------------+------------+---------------+-----------------+----------------+-------------
-        47 | j-box #47 on south vestibule wall near thermostat             | L2 landing | 8-ft 6.75-in  | on south wall   | 3-ft 10.5-in   | 12
-        48 | thermostat #48 on east wall of upper landing south of stairs  | L2 landing | on east wall  | 25-ft 4.375-in  | 4-ft 11.5-in   | 12
-        49 | two duplex #49 on east wall of upper landing below thermostat | L2 landing | on east wall  | 25-ft 1.75-in   | 1-ft 3.625-in  | 12
-        50 | j-box #50 on east wall of upper landing below thermostat      | L2 landing | on east wall  | 25-ft 1.75-in   | 0-ft 6-in      | 12
-(4 rows)
-

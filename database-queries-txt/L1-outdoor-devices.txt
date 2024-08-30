@@ -1,6 +1,0 @@
- device_id |                  device_name                   |  room_name  |   x_from_west   |  y_from_north  |   z_from_floor   | cbreaker_id 
------------+------------------------------------------------+-------------+-----------------+----------------+------------------+-------------
-       175 | led #175 is outside above exit to trailer area | L1 outdoors | 0-ft 9-in       | on north wall  | 8-ft 8.65625-in  | 14
-       187 | driveway led #187 connects to j-box 188        | L1 outdoors | 20-ft 9.4375-in | 8-ft 6.0625-in | 7-ft 10.34375-in | 12
-(2 rows)
-
